@@ -9,6 +9,7 @@ This is my own initial VueJS, Tailwind CSS and ViteJS boilerplate with my curren
 #### Dependencies
 
 * VueJS
+* Vue Router
 
 
 

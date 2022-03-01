@@ -1,4 +1,30 @@
-<script setup>
+<template>
+    <navbar />
+    <router-view />
+
+
+</template>
+
+
+<script>
+import { defineAsyncComponent } from "vue"
+
+  export default {
+    name: 'App',
+    components: {
+        Navbar: defineAsyncComponent( () => import ('@/modules/shared/components/Navbar.vue') ),
+    },
+  }
+
+</script>
+
+
+<style scopped>
+
+</style>
+
+
+<!-- <script setup>
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 import HelloWorld from './components/HelloWorld.vue'
@@ -18,4 +44,4 @@ import HelloWorld from './components/HelloWorld.vue'
   color: #2c3e50;
   margin-top: 60px;
 }
-</style>
+</style> -->
