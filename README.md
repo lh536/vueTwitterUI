@@ -1,6 +1,6 @@
-# Initial VueJS, Tailwind CSS & ViteJS boilerplate
+# Twitter Home Sample Page
 
-This is my own initial VueJS, Tailwind CSS and ViteJS boilerplate with my current and most used settings ready to use.
+My name is Fabio Duarte, I'm a junior frontend developer. I just want to show what I've learned since mid-2020. This is a recreation of the twitter home page using Tailwind CSS and VueJS.
 
 #### All suggestions are welcome!
 
@@ -48,17 +48,3 @@ This is my own initial VueJS, Tailwind CSS and ViteJS boilerplate with my curren
 `npm run build`
 
 It will create a folder ``/dist`` at the root directory for producction use.
-
-
-
-------
-
-#### This is the default README.md file content
-
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)

@@ -1,5 +1,5 @@
 <template>
-    <navbar />
+    <!-- <navbar /> -->
     <router-view />
 
 
@@ -12,7 +12,7 @@ import { defineAsyncComponent } from "vue"
   export default {
     name: 'App',
     components: {
-        Navbar: defineAsyncComponent( () => import ('@/modules/shared/components/Navbar.vue') ),
+        // Navbar: defineAsyncComponent( () => import ('@/modules/shared/components/Navbar.vue') ),
     },
   }
 
