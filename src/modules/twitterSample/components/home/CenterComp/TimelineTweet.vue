@@ -20,7 +20,7 @@
             <article class="text-base">
                 <!-- NAME, USERNAME, TIME, OPTIONS ICON -->
                 <div class="flex justify-betwenn items-center space-x-1">
-                    <span class="">{{ name }}</span>
+                    <span class="truncate">{{ name }}</span>
                     <span class="font-normal text-[#6E767D]">@{{ username }} &#183; {{ howMuchTimeAgo }}</span>
                     <span class="text-[#6E767D] grow pr-1">
                         <div class="flex items-center justify-center ml-auto w-10 h-10 rounded-full hover:bg-[#0A1720] hover:text-[#1DA1F2] transform duration-300">
