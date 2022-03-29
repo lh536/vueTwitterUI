@@ -5,12 +5,12 @@
                 <img src="/img/twitterSample/img/avatarImage/fabio.jpeg" class="rounded-full" alt="Twitter Avatar">
             </div>
 
-        <div class="flex flex-col mx-2 px-2 py-3 space-y-6">
+        <div class="flex flex-col mx-2 pl-2 py-3 space-y-6">
 
             <span class="text-[#6E767D]">What's happening?</span>
 
             <!-- WHATS HAPPENING ICONS & TWEET BUTTON -->
-            <div class="flex space-x-4 items-center text-[#1DA1F2]">
+            <div class="flex space-x-3 items-center text-[#1DA1F2]">
 
                 <!-- MEDIA -->
                 <div class="flex flex-col items-center relative group cursor-pointer">
