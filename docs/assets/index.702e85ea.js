@@ -84,7 +84,7 @@ var _export_sfc = (sfc, props) => {
 const _sfc_main = {
   name: "App",
   components: {
-    HomeTwitterSamplePage: defineAsyncComponent(() => __vitePreload(() => import("./HomeTwitterSamplePage.155cc3f8.js"), true ? ["assets/HomeTwitterSamplePage.155cc3f8.js","assets/vendor.0cf0f85f.js"] : void 0))
+    HomeTwitterSamplePage: defineAsyncComponent(() => __vitePreload(() => import("./HomeTwitterSamplePage.06cebdf1.js"), true ? ["assets/HomeTwitterSamplePage.06cebdf1.js","assets/vendor.0cf0f85f.js"] : void 0))
   }
 };
 function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {

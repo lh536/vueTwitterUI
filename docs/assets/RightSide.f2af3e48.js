@@ -1,11 +1,11 @@
-import { _ as _export_sfc, a as __vitePreload } from "./index.0ba555d9.js";
+import { _ as _export_sfc, a as __vitePreload } from "./index.702e85ea.js";
 import { d as defineAsyncComponent, b as createElementBlock, e as createBaseVNode, f as createVNode, r as resolveComponent, o as openBlock } from "./vendor.0cf0f85f.js";
 const _sfc_main = {
   name: "RightSide",
   components: {
-    SearchTwitterInput: defineAsyncComponent(() => __vitePreload(() => import("./SearchTwitterInput.89e8f965.js"), true ? ["assets/SearchTwitterInput.89e8f965.js","assets/index.0ba555d9.js","assets/index.6005bbd5.css","assets/vendor.0cf0f85f.js"] : void 0)),
-    WhatsHappeningRight: defineAsyncComponent(() => __vitePreload(() => import("./WhatsHappeningRight.98075d8c.js"), true ? ["assets/WhatsHappeningRight.98075d8c.js","assets/index.0ba555d9.js","assets/index.6005bbd5.css","assets/vendor.0cf0f85f.js"] : void 0)),
-    WhoToFollow: defineAsyncComponent(() => __vitePreload(() => import("./WhoToFollow.83ad3305.js"), true ? ["assets/WhoToFollow.83ad3305.js","assets/index.0ba555d9.js","assets/index.6005bbd5.css","assets/vendor.0cf0f85f.js"] : void 0))
+    SearchTwitterInput: defineAsyncComponent(() => __vitePreload(() => import("./SearchTwitterInput.9c2af7f6.js"), true ? ["assets/SearchTwitterInput.9c2af7f6.js","assets/index.702e85ea.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js"] : void 0)),
+    WhatsHappeningRight: defineAsyncComponent(() => __vitePreload(() => import("./WhatsHappeningRight.4c5d622b.js"), true ? ["assets/WhatsHappeningRight.4c5d622b.js","assets/index.702e85ea.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js"] : void 0)),
+    WhoToFollow: defineAsyncComponent(() => __vitePreload(() => import("./WhoToFollow.23c02bb3.js"), true ? ["assets/WhoToFollow.23c02bb3.js","assets/index.702e85ea.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js"] : void 0))
   }
 };
 const _hoisted_1 = { class: "hidden lg:block md:col-span-1 lg:col-span-3 borde-2 border-yellow-500" };

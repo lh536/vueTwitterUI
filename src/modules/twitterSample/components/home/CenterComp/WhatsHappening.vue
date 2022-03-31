@@ -10,7 +10,7 @@
             <span class="text-[#6E767D]">What's happening?</span>
 
             <!-- WHATS HAPPENING ICONS & TWEET BUTTON -->
-            <div class="flex space-x-3 items-center text-[#1DA1F2]">
+            <div class="flex space-x-2 sm:space-x-3 items-center text-[#1DA1F2]">
 
                 <!-- MEDIA -->
                 <div class="flex flex-col items-center relative group cursor-pointer">
@@ -26,7 +26,7 @@
                 </div>
 
                 <!-- POLL -->
-                <div class="flex flex-col items-center relative group cursor-pointer transform rotate-90">
+                <div class="hidden sm:flex flex-col items-center relative group cursor-pointer transform rotate-90">
                     <svg-icon icon="poll" position="transform -rotate-90 left-8 -top-0" />
                 </div>
 
@@ -36,7 +36,7 @@
                 </div>
 
                 <!-- SCHEDULE -->
-                <div class="flex flex-col items-center relative group cursor-pointer">
+                <div class="hidden sm:flex flex-col items-center relative group cursor-pointer">
                     <svg-icon icon="schedule" />
                 </div>
 
