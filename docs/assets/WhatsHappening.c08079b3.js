@@ -1,4 +1,4 @@
-import { _ as _export_sfc } from "./index.0ba555d9.js";
+import { _ as _export_sfc } from "./index.702e85ea.js";
 import { o as openBlock, b as createElementBlock, e as createBaseVNode, t as toDisplayString, n as normalizeClass, F as Fragment, f as createVNode, r as resolveComponent } from "./vendor.0cf0f85f.js";
 import { _ as _imports_0 } from "./fabio.22eb2fab.js";
 const _sfc_main$1 = {
@@ -50,7 +50,7 @@ const _hoisted_2 = /* @__PURE__ */ createBaseVNode("div", { class: "w-12 h-12 sh
 ], -1);
 const _hoisted_3 = { class: "flex flex-col mx-2 pl-2 py-3 space-y-6" };
 const _hoisted_4 = /* @__PURE__ */ createBaseVNode("span", { class: "text-[#6E767D]" }, "What's happening?", -1);
-const _hoisted_5 = { class: "flex space-x-3 items-center text-[#1DA1F2]" };
+const _hoisted_5 = { class: "flex space-x-2 sm:space-x-3 items-center text-[#1DA1F2]" };
 const _hoisted_6 = { class: "flex flex-col items-center relative group cursor-pointer" };
 const _hoisted_7 = /* @__PURE__ */ createBaseVNode("div", { class: "flex flex-col items-center relative group cursor-pointer" }, [
   /* @__PURE__ */ createBaseVNode("div", { class: "border w-5 h-5 flex justify-center items-center rounded-sm border-[#1DA1F2]" }, [
@@ -58,9 +58,9 @@ const _hoisted_7 = /* @__PURE__ */ createBaseVNode("div", { class: "flex flex-co
   ]),
   /* @__PURE__ */ createBaseVNode("span", { class: "text-xs font-normal text-white bg-slate-500 rounded-sm p-0.5 absolute top-8 invisible group-hover:visible group-hover:delay-300 group-hover:transition-all" }, "GIF")
 ], -1);
-const _hoisted_8 = { class: "flex flex-col items-center relative group cursor-pointer transform rotate-90" };
+const _hoisted_8 = { class: "hidden sm:flex flex-col items-center relative group cursor-pointer transform rotate-90" };
 const _hoisted_9 = { class: "flex flex-col items-center relative group cursor-pointer" };
-const _hoisted_10 = { class: "flex flex-col items-center relative group cursor-pointer" };
+const _hoisted_10 = { class: "hidden sm:flex flex-col items-center relative group cursor-pointer" };
 const _hoisted_11 = { class: "flex flex-col items-center relative group cursor-pointer text-[#0E4D77]" };
 const _hoisted_12 = /* @__PURE__ */ createBaseVNode("div", { class: "flex-grow flex p-1 justify-end" }, [
   /* @__PURE__ */ createBaseVNode("button", { class: "text-sm bg-[#0E5078] px-5 py-2 rounded-full self-end text-[#7F7F7F]" }, "Tweet")
