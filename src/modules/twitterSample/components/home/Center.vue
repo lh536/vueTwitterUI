@@ -6,7 +6,7 @@
             <whats-happening />
 
             <timeline-tweet
-                avatar-image="fabio.jpeg"
+                avatar-image="fabio.jpg"
                 who-like="Somebody"
                 name="Fabio Duarte"
                 username="lh536"

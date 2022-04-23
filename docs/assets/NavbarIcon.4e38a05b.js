@@ -1,4 +1,4 @@
-import { _ as _export_sfc } from "./index.702e85ea.js";
+import { _ as _export_sfc } from "./index.4d70cbd5.js";
 import { o as openBlock, b as createElementBlock, e as createBaseVNode, t as toDisplayString, g as withDirectives, v as vShow, f as createVNode, r as resolveComponent } from "./vendor.0cf0f85f.js";
 const _sfc_main$2 = {
   name: "NotificationDot"

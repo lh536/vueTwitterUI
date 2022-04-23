@@ -1,11 +1,11 @@
-import { _ as _export_sfc, a as __vitePreload } from "./index.702e85ea.js";
+import { _ as _export_sfc, a as __vitePreload } from "./index.4d70cbd5.js";
 import { d as defineAsyncComponent, b as createElementBlock, e as createBaseVNode, f as createVNode, w as withCtx, r as resolveComponent, o as openBlock } from "./vendor.0cf0f85f.js";
 const _sfc_main = {
   name: "Center",
   components: {
-    Home: defineAsyncComponent(() => __vitePreload(() => import("./Home.0c464147.js"), true ? ["assets/Home.0c464147.js","assets/index.702e85ea.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js"] : void 0)),
-    WhatsHappening: defineAsyncComponent(() => __vitePreload(() => import("./WhatsHappening.c08079b3.js"), true ? ["assets/WhatsHappening.c08079b3.js","assets/index.702e85ea.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js","assets/fabio.22eb2fab.js"] : void 0)),
-    TimelineTweet: defineAsyncComponent(() => __vitePreload(() => import("./TimelineTweet.20fc19c3.js"), true ? ["assets/TimelineTweet.20fc19c3.js","assets/index.702e85ea.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js"] : void 0))
+    Home: defineAsyncComponent(() => __vitePreload(() => import("./Home.4f2e9c10.js"), true ? ["assets/Home.4f2e9c10.js","assets/index.4d70cbd5.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js"] : void 0)),
+    WhatsHappening: defineAsyncComponent(() => __vitePreload(() => import("./WhatsHappening.6686b883.js"), true ? ["assets/WhatsHappening.6686b883.js","assets/index.4d70cbd5.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js","assets/fabio.eecfaddf.js"] : void 0)),
+    TimelineTweet: defineAsyncComponent(() => __vitePreload(() => import("./TimelineTweet.8049dcaf.js"), true ? ["assets/TimelineTweet.8049dcaf.js","assets/index.4d70cbd5.js","assets/index.dacabcfc.css","assets/vendor.0cf0f85f.js"] : void 0))
   }
 };
 const _hoisted_1 = { class: "col-span-7 md:col-span-8 lg:col-span-5" };
@@ -22,7 +22,7 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
       createVNode(_component_home),
       createVNode(_component_whats_happening),
       createVNode(_component_timeline_tweet, {
-        "avatar-image": "fabio.jpeg",
+        "avatar-image": "fabio.jpg",
         "who-like": "Somebody",
         name: "Fabio Duarte",
         username: "lh536",
