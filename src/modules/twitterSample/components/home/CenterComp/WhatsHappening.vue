@@ -2,7 +2,7 @@
     <div class="flex px-4 py-2 border-b border-[#2F3336]">
             <!-- TWITTER AVATAR -->
             <div class="w-12 h-12 shrink-0 rounded-full">
-                <img src="/img/twitterSample/img/avatarImage/fabio.jpeg" class="rounded-full" alt="Twitter Avatar">
+                <img src="/img/twitterSample/img/avatarImage/fabio.jpg" class="rounded-full" alt="Twitter Avatar">
             </div>
 
         <div class="flex flex-col mx-2 pl-2 py-3 space-y-6">

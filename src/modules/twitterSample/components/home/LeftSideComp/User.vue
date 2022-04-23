@@ -4,7 +4,7 @@
         <button class="flex space-x-4 items-center grow rounded-full lg:-ml-2 p-2 px3 hover:bg-gray-900 transform duration-300">
             <div class="w-10 h-10 rounded-full">
                 <!-- <img src="https://pbs.twimg.com/profile_images/458965238004453377/KxtxcGCE.jpeg" class="rounded-full" alt="Twitter User Avatar"> -->
-                <img src="/img/twitterSample/img/avatarImage/fabio.jpeg" class="rounded-full" alt="Twitter User Avatar">
+                <img src="/img/twitterSample/img/avatarImage/fabio.jpg" class="rounded-full" alt="Twitter User Avatar">
             </div>
             <div class="hidden lg:flex flex-col text-base text-left items-start leading-tight">
                 <span class="lg:whitespace-nowrap">Fabio Duarte</span>
