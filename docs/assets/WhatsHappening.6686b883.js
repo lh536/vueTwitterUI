@@ -1,6 +1,6 @@
-import { _ as _export_sfc } from "./index.702e85ea.js";
+import { _ as _export_sfc } from "./index.4d70cbd5.js";
 import { o as openBlock, b as createElementBlock, e as createBaseVNode, t as toDisplayString, n as normalizeClass, F as Fragment, f as createVNode, r as resolveComponent } from "./vendor.0cf0f85f.js";
-import { _ as _imports_0 } from "./fabio.22eb2fab.js";
+import { _ as _imports_0 } from "./fabio.eecfaddf.js";
 const _sfc_main$1 = {
   name: "SvgIcon",
   props: {

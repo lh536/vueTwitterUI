@@ -1,5 +1,5 @@
-import { _ as _imports_0 } from "./fabio.22eb2fab.js";
-import { _ as _export_sfc } from "./index.702e85ea.js";
+import { _ as _imports_0 } from "./fabio.eecfaddf.js";
+import { _ as _export_sfc } from "./index.4d70cbd5.js";
 import { b as createElementBlock, o as openBlock, h as createStaticVNode } from "./vendor.0cf0f85f.js";
 const _sfc_main = {
   name: "User"
